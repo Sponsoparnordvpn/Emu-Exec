@@ -8,3 +8,5 @@ In order to use emu-exec, please download it [here](https://emu-exec.vercel.app/
 **Please take note** : Create an exception for Windows Defender since it flags it as a Trojan because it creates a server on your IP.
 Once you downloaded, decompress the ZIP file and run Emu-Exec app.
 Wait for the app to initialize, and make sure to copy your network IP address and the Server Link 
+![plot](./blob/instruction_run.png)
+Then, go to any browser of your choice ( I used Chrome in the tutorial ) 
