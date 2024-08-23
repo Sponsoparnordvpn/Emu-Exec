@@ -9,4 +9,7 @@ In order to use emu-exec, please download it [here](https://emu-exec.vercel.app/
 Once you downloaded, decompress the ZIP file and run Emu-Exec app.
 Wait for the app to initialize, and make sure to copy your network IP address and the Server Link 
 ![plot](./blob/instruction_run.png)
-Then, go to any browser of your choice ( I used Chrome in the tutorial ) 
+Then, go to any browser of your choice ( I used Chrome in the tutorial ) and paste the link in the console. If you get a client side exception error, that means that your browser does not allow insecure websockets connections ( ws instead of wss ) , to fix this click in this button
+![plot](./blob/fix_browser_1.png) Then, click website settings
+![plot](./blob/fix_browser_2.png) and scroll down until you see this
+![plot](./blob/fix_browser_3.png) click on the dropdown and select Authorize. Once it's done, go back to the page and refresh it. You should see something like this
